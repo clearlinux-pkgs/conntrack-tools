@@ -1,0 +1,8 @@
+libc.so.6
+libdl.so.2
+libmnl.so.0
+libnetfilter_conntrack.so.3
+libnetfilter_cthelper.so.0
+libnetfilter_cttimeout.so.1
+libnetfilter_queue.so.1
+libnfnetlink.so.0
