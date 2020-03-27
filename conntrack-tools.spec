@@ -6,7 +6,7 @@
 #
 Name     : conntrack-tools
 Version  : 1.4.5
-Release  : 14
+Release  : 15
 URL      : https://www.netfilter.org/projects/conntrack-tools/files/conntrack-tools-1.4.5.tar.bz2
 Source0  : https://www.netfilter.org/projects/conntrack-tools/files/conntrack-tools-1.4.5.tar.bz2
 Source99 : https://www.netfilter.org/projects/conntrack-tools/files/conntrack-tools-1.4.5.tar.bz2.sig
